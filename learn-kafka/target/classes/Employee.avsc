@@ -1,0 +1,13 @@
+{
+	"namespace": "com.learnkafka.common",
+	"type": "record",
+	"name": "Employees",
+	"fields": [
+		{"name": "emp_no", "type": "int"}, 
+		{"name": "birth_date", "type": "string"}, 
+		{"name": "first_name", "type": "string"}, 
+		{"name": "last_name", "type": "string"}, 
+		{"name": "gender", "type": "string"}, 
+		{"name": "hire_date", "type": "string"}
+	]
+}
